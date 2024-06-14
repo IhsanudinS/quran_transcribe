@@ -1,0 +1,9 @@
+flask
+flask-cors
+torch
+transformers
+pydub
+numpy
+difflib
+re
+logging
